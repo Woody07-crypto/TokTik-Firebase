@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342579097331",
+    "project_id": "tiktokflutter-cca7a",
+    "storage_bucket": "tiktokflutter-cca7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342579097331:android:1970abc9c7daa3e3d6d186",
+        "android_client_info": {
+          "package_name": "com.example.toktik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLqtZtLuCmh8rBNKguRduUVTBPXhj6mZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

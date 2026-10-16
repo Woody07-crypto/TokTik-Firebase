@@ -46,3 +46,17 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Credenciales y archivos privados
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.jks
+*.keystore
+*service-account*.json
+serviceAccountKey.json
+
+# Configuracion local
+.vscode/settings.json
